@@ -1,0 +1,3 @@
+interface:
+  display_name: "诉讼证据目录"
+  short_description: "依据案件材料制作同版式、可编辑的中文证据目录 Word 文档"
